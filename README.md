@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abenezer</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FCAE1E&size=25&center=true&vCenter=true&width=600&height=100&lines=AWS+Cloud+Practitioner+Certified&hearts;++;Cloud+Enthusiast,;Senior+Software+Engineering+Student,;AWS+Emerging+Talent+Community+Member;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FCAE1E&size=25&center=true&vCenter=true&width=600&height=100&lines=AWS+Cloud+Practitioner+Certified,;++;Cloud+Enthusiast,;Software+Engineering,;AWS+Emerging+Talent+Community+Member;"></a>
 </p>
 
 
