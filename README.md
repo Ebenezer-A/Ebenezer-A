@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter and dart**
 
-- 👨‍💻 All of my projects are available at [abenezer.tech](abenezer.tech)
+- 👨‍💻 All of my projects are available at [abenezer.tech](abenezer.tech) (Currently Under Development)
 
 - 📝 I regularly write articles on [https://dev.to/abenezer](https://dev.to/abenezer)
 
