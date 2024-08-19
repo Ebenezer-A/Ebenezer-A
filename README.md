@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [abenezer.tech](abenezer.tech) (Currently Under Development)
 
-- 📝 I regularly write articles on [https://dev.to/abenezer](https://dev.to/abenezer)
+- 📝 I sometimes write articles on [https://dev.to/abenezer](https://dev.to/abenezer)
 
 - 💬 Ask me about **AWS, NodeJS, MongoDB, Express**
 
