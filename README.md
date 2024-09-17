@@ -10,9 +10,9 @@
 	
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 80px></picture> **About me**
 
-- 🔭 I’m currently working on **Classroom Management**
+- 🔭 I’m currently working on **Inventory Management**
 
-- 🌱 I’m currently learning **Flutter and dart**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [abenezer.tech](abenezer.tech) (Currently Under Development)
 
