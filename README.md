@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abenezer</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FCAE1E&size=25&center=true&vCenter=true&width=610&height=100&lines=AWS+Certified+Solutions+Architect+-+Associate,;Cloud+Enthusiast,;Software+Engineering,;AWS+Emerging+Talent+Community+Member;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FCAE1E&size=25&center=true&vCenter=true&width=600&height=100&lines=AWS+Certified+Solutions+Architect+Associate,;Cloud+Enthusiast,;Software+Engineering,;AWS+Emerging+Talent+Community+Member;"></a>
 </p>
 
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **abenezerame@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1EyQ0Esor-kF0G-eJmGE8XNosby423q0Pz9Byi7OtcHk/edit?usp=sharing](https://docs.google.com/document/d/1EyQ0Esor-kF0G-eJmGE8XNosby423q0Pz9Byi7OtcHk/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1EyQ0Esor-kF0G-eJmGE8XNosby423q0Pz9Byi7OtcHk/edit?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
