@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abenezer</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FCAE1E&size=25&center=true&vCenter=true&width=600&height=100&lines=AWS+Certified+Solutions+Architect+-+Associate,;Cloud+Enthusiast,;Software+Engineering,;AWS+Emerging+Talent+Community+Member;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FCAE1E&size=25&center=true&vCenter=true&width=610&height=100&lines=AWS+Certified+Solutions+Architect+-+Associate,;Cloud+Enthusiast,;Software+Engineering,;AWS+Emerging+Talent+Community+Member;"></a>
 </p>
 
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://abenezer-amare.vercel.app](abenezer-amare.vercel.app) (Currently Under Development)
+- 👨‍💻 All of my projects are available at [abenezer-amare.vercel.app](https://abenezer-amare.vercel.app) (Currently Under Development)
 
 - 📝 I sometimes write articles on [https://dev.to/abenezer](https://dev.to/abenezer)
 
