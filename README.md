@@ -10,7 +10,7 @@
 	
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 80px></picture> **About me**
 
-- 🔭 I’m currently working on **Personal AI Fashion Stylist**
+// - 🔭 I’m currently working on **Personal AI Fashion Stylist**
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -18,11 +18,9 @@
 
 - 📝 I sometimes write articles on [https://dev.to/abenezer](https://dev.to/abenezer)
 
-- 💬 Ask me about **AWS, NodeJS, MongoDB, Express, Terraform, React**
+- 💬 Ask me about **AWS, Kubernetes, Terraform, Docker, GitHub Actions**
 
 - 📫 How to reach me **abenezerame@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1EyQ0Esor-kF0G-eJmGE8XNosby423q0Pz9Byi7OtcHk/edit?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
